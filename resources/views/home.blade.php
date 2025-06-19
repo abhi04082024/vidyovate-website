@@ -507,10 +507,10 @@
 Najafgarh, New Delhi- 110043
                             </p>
                             <p class="mb-2">
-                                <strong>📧 Email:</strong> contact@vidyovate.com
+                                <strong>📧 Email:</strong> support@vidyovate.com
                             </p>
                             <p class="mb-0">
-                                <strong>📞 Phone:</strong> +91 79798852
+                                <strong>📞 Phone:</strong> +91 7979885210
                             </p>
                         </div>
                     </div>
