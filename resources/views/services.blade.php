@@ -10,7 +10,7 @@
                 <div class="bg-dark bg-opacity-50 rounded-4 w-75 mx-auto p-4 section-card fade-up">
                     <h1 class="section-title text-center">Our Services</h1>
                     <p class="section-text text-center">
-                        At <strong>Webinary</strong>, we offer a wide range of advanced technology solutions to empower your
+                        At <strong>Vidyovate</strong>, we offer a wide range of advanced technology solutions to empower your
                         digital transformation.
                     </p>
                 </div>
@@ -123,7 +123,7 @@
         <section class="py-5 text-white" style="background: linear-gradient(135deg, #a28aa1, #5a6782); min-height: 300px">
             <div class="container text-center fade-up">
                 <h2 class="mb-4">Ready to Transform Your Business?</h2>
-                <p class="section-text mb-4">Let Webinary be your partner in digital innovation and growth.</p>
+                <p class="section-text mb-4">Let Vidyovate be your partner in digital innovation and growth.</p>
                 <a href="" class="btn btn-outline-light rounded-pill">Get in Touch</a>
             </div>
         </section>
