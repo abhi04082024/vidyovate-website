@@ -43,7 +43,7 @@
                             <div class="col-md-4">
                                 <div class="bg-white text-dark rounded-4 shadow-sm p-4 h-100 text-center">
                                     <h5 class="mb-2">📧 Email</h5>
-                                    <p class="mb-0">yourname@example.com</p>
+                                    <p class="mb-0">support@vidyovate.com</p>
                                 </div>
                             </div>
 
@@ -51,7 +51,7 @@
                             <div class="col-md-4">
                                 <div class="bg-white text-dark rounded-4 shadow-sm p-4 h-100 text-center">
                                     <h5 class="mb-2">📞 Phone</h5>
-                                    <p class="mb-0">+123 456 7890</p>
+                                    <p class="mb-0">+91 7979885210</p>
                                 </div>
                             </div>
 
@@ -59,7 +59,9 @@
                             <div class="col-md-4">
                                 <div class="bg-white text-dark rounded-4 shadow-sm p-4 h-100 text-center">
                                     <h5 class="mb-2">📍 Address</h5>
-                                    <p class="mb-0">123 Main St, City, Country</p>
+                                    <p class="mb-0">Plot No, 293, Block-D, Pole No. 1138, Shyam Vihar
+
+Najafgarh, New Delhi- 110043</p>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +76,7 @@
                 <h1 class="fs-3 mb-3 mt-4 text-light fade-up">Location</h1>
                 <div class="map-responsive rounded-4 overflow-hidden shadow-sm" style="height: 400px;">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.654215104826!2d73.90859627519224!3d18.54452168255373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c10d13529369%3A0x79e0677dab270adf!2sWebinar%20Solutions%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1750155976719!5m2!1sen!2sin"
+                        src="https://www.google.com/maps/dir//plot+no+C,+10%2F1,+nr.+Sai+Baba+Mandir,+Shyam+Vihar,+Vikas+Nagar+2,+Shyam+Vihar+-+II,+Najafgarh,+Delhi,+110043/@28.5873808,76.9208389,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390d113806847867:0xfc8b6677f3fd7eb0!2m2!1d77.0032401!2d28.5873942?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D"
                         width="1500" height="550" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>

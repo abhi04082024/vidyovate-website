@@ -163,11 +163,11 @@
                     tabindex="0"
                     aria-label="Happy clients statistics"
                 >
-                    @php $stats = [ ['icon' => 'people', 'number' => '100+',
+                    @php $stats = [ ['icon' => 'people', 'number' => '5+',
                     'label' => 'Happy Clients'], ['icon' => 'folder', 'number'
-                    => '100+', 'label' => 'Unique Projects'], ['icon' =>
-                    'star_rate', 'number' => '10+', 'label' => 'Awards Won'],
-                    ['icon' => 'public', 'number' => '90+', 'label' =>
+                    => '5', 'label' => 'Unique Projects'], ['icon' =>
+                    'star_rate', 'number' => '1', 'label' => 'Awards Won'],
+                    ['icon' => 'public', 'number' => '5', 'label' =>
                     'Countries Served'], ]; @endphp @foreach ($stats as $stat)
                     <article
                         class="stat-card"
@@ -294,7 +294,7 @@
 Najafgarh, New Delhi- 110043
                             </p>
                             <p class="mb-2">
-                                <strong>📧 Email:</strong> contact@Vidyovate.com
+                                <strong>📧 Email:</strong> support@Vidyovate.com
                             </p>
                             <p class="mb-0">
                                 <strong>📞 Phone:</strong> +91 7979885210
