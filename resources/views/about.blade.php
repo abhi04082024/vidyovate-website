@@ -297,7 +297,7 @@ Najafgarh, New Delhi- 110043
                                 <strong>📧 Email:</strong> support@Vidyovate.com
                             </p>
                             <p class="mb-0">
-                                <strong>📞 Phone:</strong> +91 7979885210
+                                <strong>📞 Phone:</strong> +91 857746590
                             </p>
                         </div>
                     </div>

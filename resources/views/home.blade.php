@@ -328,12 +328,12 @@
             background: linear-gradient(135deg, #a28aa1, #5a6782);
             height: 100vh;
         "
-    >
+        >
         <div class="container">
             <div
                 class="mx-auto p-4 custom-scrollbar"
                 style="max-width: 960px; height: 100%; overflow-y: auto"
-            >
+                >
                 <div class="bg-dark bg-opacity-50 text-white rounded-4 p-4">
                     <!-- Section Title -->
                     <div class="fade-up mb-4 text-center">
@@ -341,7 +341,7 @@
                     </div>
 
                     <!-- Bootstrap Carousel with Fade -->
-                    <div
+                    <!-- <div
                         id="reviewCarousel"
                         class="carousel slide carousel-fade fade-up"
                         data-bs-ride="carousel"
@@ -372,10 +372,10 @@
                                 </div>
                             </div>
                             @endforeach
-                        </div>
+                        </div> -->
 
                         <!-- Carousel Controls -->
-                        <button
+                        <!-- <button
                             class="carousel-control-prev"
                             type="button"
                             data-bs-target="#reviewCarousel"
@@ -398,10 +398,10 @@
                                 aria-hidden="true"
                             ></span>
                             <span class="visually-hidden">Next</span>
-                        </button>
+                        </button> -->
 
                         <!-- Carousel Indicators -->
-                        <div class="carousel-indicators mt-3">
+                        <!-- <div class="carousel-indicators mt-3">
                             @foreach ($reviews as $index => $review)
                             <button
                                 type="button"
@@ -411,7 +411,7 @@
                                 aria-label="Slide {{ $index + 1 }}"
                             ></button>
                             @endforeach
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -510,7 +510,7 @@ Najafgarh, New Delhi- 110043
                                 <strong>📧 Email:</strong> support@vidyovate.com
                             </p>
                             <p class="mb-0">
-                                <strong>📞 Phone:</strong> +91 7979885210
+                                <strong>📞 Phone:</strong> +91 857746590
                             </p>
                         </div>
                     </div>
