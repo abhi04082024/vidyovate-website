@@ -51,7 +51,7 @@
                             <div class="col-md-4">
                                 <div class="bg-white text-dark rounded-4 shadow-sm p-4 h-100 text-center">
                                     <h5 class="mb-2">📞 Phone</h5>
-                                    <p class="mb-0">+91 857746590</p>
+                                    <p class="mb-0">+91 7979885210</p>
                                 </div>
                             </div>
 
