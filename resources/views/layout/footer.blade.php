@@ -25,22 +25,23 @@
             <div class="col-md-4 text-center text-md-start">
                 <h5 class="mb-3">Domain Expertise</h5>
                 <ul class="list-unstyled text-white-50 small">
-                    <li>🛒 E-commerce Development</li>
-                    <li>📱 Mobile App Development</li>
-                    <li>🌐 Custom Web Applications</li>
-                    <li>⚙️ API Integrations</li>
-                    <li>🔒 Cybersecurity Consulting</li>
+                    <li>Web App Development</li>
+                    <li>Mobile App Development</li>
+                    <li>E-commerce Development</li>
+                    <li>SaaS</li>
+                    <li>API Integrations</li>
+                    <li>QA & Testing</li>
                 </ul>
             </div>
         </div>
         <div class="mt-3">
-            <a href="https://facebook.com" target="_blank" class="text-white me-3" title="Facebook">
+            <!-- <a href="https://facebook.com" target="_blank" class="text-white me-3" title="Facebook">
                 <i class="bi bi-facebook fs-5"></i>
             </a>
             <a href="https://instagram.com" target="_blank" class="text-white me-3" title="Instagram">
                 <i class="bi bi-instagram fs-5"></i>
-            </a>
-            <a href="https://linkedin.com" target="_blank" class="text-white me-3" title="LinkedIn">
+            </a> -->
+            <a href="https://linkedin.com" target="https://www.linkedin.com/company/vidyovate-private-limited" class="text-white me-3" title="LinkedIn">
                 <i class="bi bi-linkedin fs-5"></i>
             </a>
         </div>

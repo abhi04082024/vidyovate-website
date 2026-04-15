@@ -220,6 +220,17 @@
             background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
         }
 
+        .process-icon-wrapper {
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Optional: Subtle hover effect for the process steps */
+        .process-icon-wrapper div:hover {
+            transform: scale(1.1);
+            transition: transform 0.3s ease;
+        }
+
         /* ===== Responsive Scaling ===== */
         @media (max-width: 992px) {
             .plus-icon-container {

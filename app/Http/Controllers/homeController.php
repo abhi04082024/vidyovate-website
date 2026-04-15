@@ -17,7 +17,7 @@ class homeController extends Controller
     {
         // https://subtlelabs.com/our-services.php
         // $services = Services::all();
-        $services = Services::pluck('service_name');
+        $services = Services::orderBy('id', 'asc')->pluck('service_name');
         $projects = Projects::take(3)->get();
 
         //    $reviews = Reviews::latest()->paginate(9); // ✅ Correct

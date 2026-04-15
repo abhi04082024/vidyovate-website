@@ -50,19 +50,12 @@
                             class="fs-6 lh-lg fade-up"
                             style="animation: floatUp 1s ease-out forwards"
                         >
-                            We specialize in AI, Cloud Computing, Engineering
-                            Solutions, and Mobile Development. Explore how we
+                            We specialize in Web App, Accounting Software, E-Commerce,
+                            SaaS and Mobile Development. Explore how we
                             bring innovation to your fingertips with expert
-                            solutions. We specialize in AI, Cloud Computing,
-                            Engineering Solutions, and Mobile Development.
-                            Explore how we bring innovation to your fingertips
-                            with expert solutions. We specialize in AI, Cloud
-                            Computing, Engineering Solutions, and Mobile
-                            Development. Explore how we bring innovation to your
-                            fingertips with expert solutions. We specialize in
-                            AI, Cloud Computing, Engineering Solutions, and
-                            Mobile Development. Explore how we bring innovation
-                            to your fingertips with expert solutions.
+                            solutions. Vidyovate pioneers the creation of intelligent platforms. 
+                            Our innovative designs cultivate authentic connections, 
+                            fostering meaningful experiences that bridge the gap between you and your customers.
                         </p>
                     </div>
 
@@ -133,34 +126,29 @@
                             <strong>VIDYOVATE</strong><br />
                             At Vidyovate, we are passionate about shaping the
                             future through technology. Our expertise spans
-                            across <strong>Artificial Intelligence</strong>,
-                            <strong>Cloud Computing</strong>,
-                            <strong>Engineering Solutions</strong>, and
+                            across <strong>Web Applications</strong>,
+                            <strong>SaaS</strong>,
+                            <strong>E-Commerce</strong>, and
                             <strong>Mobile Development</strong>.<br /><br />
                             We deliver cutting-edge solutions designed to
                             transform businesses, empower innovation, and drive
                             digital growth. Whether you're looking to harness
                             the power of AI, build scalable cloud systems,
                             engineer complex systems, or create powerful mobile
-                            experiences — we’ve got you covered. We deliver
-                            cutting-edge solutions designed to transform
-                            businesses, empower innovation, and drive digital
-                            growth. Whether you're looking to harness the power
-                            of AI, build scalable cloud systems, engineer
-                            complex systems, or create powerful mobile
-                            experiences — we’ve got you covered. We deliver
-                            cutting-edge solutions designed to transform
-                            businesses, empower innovation, and drive digital
-                            growth. Whether you're looking to harness the power
-                            of AI, build scalable cloud systems, engineer
-                            complex systems, or create powerful mobile
-                            experiences — we’ve got you covered. We deliver
-                            cutting-edge solutions designed to transform
-                            businesses, empower innovation, and drive digital
-                            growth. Whether you're looking to harness the power
-                            of AI, build scalable cloud systems, engineer
-                            complex systems, or create powerful mobile
-                            experiences — we’ve got you covered.
+                            experiences — we’ve got you covered. 
+
+                            Subtlelabs stands as a distinguished product engineering 
+                            firm, renowned for its exemplary track record. Our clients 
+                            reap the rewards of our robust product development methodologies 
+                            and comprehensive support, facilitated by a team of deeply knowledgeable
+                            business and technical experts. We diligently focus on critical business 
+                            aspects, including market share enhancement, achievement of quarterly 
+                            and annual goals, and cost reduction strategies.
+
+                            Our offerings are tailored to empower clients in the fiercely 
+                            competitive IT landscape. Subtlelabs is revered as a reliable 
+                            partner, esteemed for its transparent culture and unwavering 
+                            commitment to ethical practices.
                         </p>
                     </div>
 
@@ -222,22 +210,15 @@
                             technology solutions tailored to meet modern
                             business needs. Our core services include:
                             <br /><br />
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
-                            Partner with Vidyovate to bring innovation,
-                            efficiency, and scalability to your digital journey.
+                            Embark on your brand's digital journey with Vidyovate as your trusted partner.
+
+                            At Vidyovate, we offer a comprehensive range of services tailored to meet your needs. 
+                            From custom software development and digital transformation initiatives to UX/UI design 
+                            and product optimization, our team is equipped to handle every aspect of your project 
+                            with precision and expertise. We prioritize collaboration and communication throughout 
+                            the process, ensuring that your vision is realized efficiently and effectively. With 
+                            Vidyovate as your partner, you can trust that your project will exceed expectations and 
+                            achieve success in record time.
                         </p>
                     </div>
                 </div>
@@ -326,92 +307,88 @@
         class="py-5"
         style="
             background: linear-gradient(135deg, #a28aa1, #5a6782);
-            height: 100vh;
+            height: auto;
+            min-height: 100vh;
         "
-        >
+    >
         <div class="container">
             <div
-                class="mx-auto p-4 custom-scrollbar"
-                style="max-width: 960px; height: 100%; overflow-y: auto"
-                >
-                <div class="bg-dark bg-opacity-50 text-white rounded-4 p-4">
-                    <!-- Section Title -->
-                    <div class="fade-up mb-4 text-center">
-                        <h2 class="text-white fw-bold">Reviews</h2>
+                class="mx-auto p-4"
+                style="max-width: 1100px;"
+            >
+                <div class="bg-dark bg-opacity-50 text-white rounded-4 p-5">
+                    <div class="fade-up mb-5 text-center">
+                        <h2 class="text-white fw-bold text-uppercase tracking-wider">Work Process</h2>
                     </div>
 
-                    <!-- Bootstrap Carousel with Fade -->
-                    <!-- <div
-                        id="reviewCarousel"
-                        class="carousel slide carousel-fade fade-up"
-                        data-bs-ride="carousel"
-                    >
-                        <div class="carousel-inner">
-                            @foreach ($reviews as $index => $review)
-                            <div
-                                class="carousel-item @if ($index == 0) active @endif"
-                            >
-                                <div class="p-4 text-center">
-                                    <div
-                                        class="bg-secondary bg-opacity-25 px-4 py-3 mb-3 rounded-2 shadow-sm d-inline-block"
-                                        style="
-                                            max-width: 600px;
-                                            min-height: 230px;
-                                        "
-                                    >
-                                        <h5 class="mb-1">
-                                            {{ $review->client_name }}
-                                        </h5>
-                                        <p class="mb-1 small text-white-50">
-                                            {{ $review->designation ?? 'Client' }}
-                                        </p>
-                                        <p class="mb-0 fst-italic">
-                                            “{{ $review->comment }}”
-                                        </p>
-                                    </div>
+                    <div class="row g-5 justify-content-center position-relative">
+                        
+                        <div class="col-12 col-md-4 text-center fade-up">
+                            <div class="process-icon-wrapper mb-3">
+                                <div class="rounded-circle bg-primary d-inline-flex align-items-center justify-content-center shadow-lg" style="width: 80px; height: 80px;">
+                                    <i class="bi bi-lightbulb fs-2"></i>
                                 </div>
+                                <div class="fw-bold mt-2 text-primary">01</div>
                             </div>
-                            @endforeach
-                        </div> -->
+                            <h5 class="fw-bold">Discussion & Brainstorming</h5>
+                            <p class="small text-white-50">Meet, Information sharing, Proposal</p>
+                        </div>
 
-                        <!-- Carousel Controls -->
-                        <!-- <button
-                            class="carousel-control-prev"
-                            type="button"
-                            data-bs-target="#reviewCarousel"
-                            data-bs-slide="prev"
-                        >
-                            <span
-                                class="carousel-control-prev-icon"
-                                aria-hidden="true"
-                            ></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button
-                            class="carousel-control-next"
-                            type="button"
-                            data-bs-target="#reviewCarousel"
-                            data-bs-slide="next"
-                        >
-                            <span
-                                class="carousel-control-next-icon"
-                                aria-hidden="true"
-                            ></span>
-                            <span class="visually-hidden">Next</span>
-                        </button> -->
+                        <div class="col-12 col-md-4 text-center fade-up" style="transition-delay: 0.1s">
+                            <div class="process-icon-wrapper mb-3">
+                                <div class="rounded-circle d-inline-flex align-items-center justify-content-center shadow-lg" style="width: 80px; height: 80px; background-color: #f39c12;">
+                                    <i class="bi bi-bullseye fs-2"></i>
+                                </div>
+                                <div class="fw-bold mt-2" style="color: #f39c12;">02</div>
+                            </div>
+                            <h5 class="fw-bold">Strategy & Prototyping</h5>
+                            <p class="small text-white-50">Research, Schedule, Resource allocation</p>
+                        </div>
 
-                        <!-- Carousel Indicators -->
-                        <!-- <div class="carousel-indicators mt-3">
-                            @foreach ($reviews as $index => $review)
-                            <button
-                                type="button"
-                                data-bs-target="#reviewCarousel"
-                                data-bs-slide-to="{{ $index }}"
-                                class="@if ($index == 0) active @endif bg-white"
-                                aria-label="Slide {{ $index + 1 }}"
-                            ></button>
-                            @endforeach
-                        </div> -->
+                        <div class="col-12 col-md-4 text-center fade-up" style="transition-delay: 0.2s">
+                            <div class="process-icon-wrapper mb-3">
+                                <div class="rounded-circle d-inline-flex align-items-center justify-content-center shadow-lg" style="width: 80px; height: 80px; background-color: #1abc9c;">
+                                    <i class="bi bi-bezier2 fs-2"></i>
+                                </div>
+                                <div class="fw-bold mt-2" style="color: #1abc9c;">03</div>
+                            </div>
+                            <h5 class="fw-bold">UI UX Designing</h5>
+                            <p class="small text-white-50">Graphic mockups, Colors, Typography</p>
+                        </div>
+
+                        <div class="col-12 col-md-4 text-center fade-up" style="transition-delay: 0.3s">
+                            <div class="process-icon-wrapper mb-3">
+                                <div class="rounded-circle d-inline-flex align-items-center justify-content-center shadow-lg" style="width: 80px; height: 80px; background-color: #f1c40f;">
+                                    <i class="bi bi-code-slash fs-2"></i>
+                                </div>
+                                <div class="fw-bold mt-2" style="color: #f1c40f;">04</div>
+                            </div>
+                            <h5 class="fw-bold">Implementation</h5>
+                            <p class="small text-white-50">Present, Revise, Process, Finalize</p>
+                        </div>
+
+                        <div class="col-12 col-md-4 text-center fade-up" style="transition-delay: 0.4s">
+                            <div class="process-icon-wrapper mb-3">
+                                <div class="rounded-circle d-inline-flex align-items-center justify-content-center shadow-lg" style="width: 80px; height: 80px; background-color: #9b59b6;">
+                                    <i class="bi bi-gear-wide-connected fs-2"></i>
+                                </div>
+                                <div class="fw-bold mt-2" style="color: #9b59b6;">05</div>
+                            </div>
+                            <h5 class="fw-bold">Testing</h5>
+                            <p class="small text-white-50">Finalization of all assets, test, pre-flight ready</p>
+                        </div>
+
+                        <div class="col-12 col-md-4 text-center fade-up" style="transition-delay: 0.5s">
+                            <div class="process-icon-wrapper mb-3">
+                                <div class="rounded-circle d-inline-flex align-items-center justify-content-center shadow-lg" style="width: 80px; height: 80px; background-color: #2ecc71;">
+                                    <i class="bi bi-rocket-takeoff fs-2"></i>
+                                </div>
+                                <div class="fw-bold mt-2" style="color: #2ecc71;">06</div>
+                            </div>
+                            <h5 class="fw-bold">Launch & Support</h5>
+                            <p class="small text-white-50">Submit final assets to client</p>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -423,7 +400,7 @@
             background: linear-gradient(135deg, #5a6782, #a28aa1);
             height: 100vh;
         "
-    >
+        >
         <div class="container">
             <div
                 class="mx-auto p-4 scrollable-area custom-scrollbar"

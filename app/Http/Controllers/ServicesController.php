@@ -11,7 +11,7 @@ class ServicesController extends Controller
 {
     public function services(){
          $header = header_option::all();
-         $serv=Services::all();
+         $serv=Services::orderBy('id', 'asc')->get();
         //  dd($serv);
         return view('services',compact('header','serv'));
     }

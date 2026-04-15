@@ -47,9 +47,10 @@
                             At <strong>Vidyovate</strong>, we are passionate
                             about shaping the future through technology. Our
                             expertise spans
-                            <strong>Artificial Intelligence</strong>,
-                            <strong>Cloud Computing</strong>,
-                            <strong>Engineering Solutions</strong>, and
+                            <strong>Web Application</strong>,
+                            <strong>Accounting software</strong>,
+                            <strong>E-Commerce</strong>,
+                            <strong>SaaS</strong>, and
                             <strong>Mobile Development</strong>. We deliver
                             cutting-edge solutions designed to transform
                             businesses, empower innovation, and drive digital
@@ -122,8 +123,8 @@
                     <h2 class="section-title section-text mb-4">Who We Are</h2>
                     <p class="section-text">
                         Vidyovate stands out as a premier, full-service software
-                        development company, specializing in Blockchain,
-                        Metaverse, IoT, Artificial Intelligence, OpenAI, BOTS,
+                        development company, specializing in Web App Development,
+                        Accounting Software, E-commerce, Artificial Intelligence, OpenAI, BOTS,
                         Mobile App, Web App, Cloud, and DevOps Development. Our
                         commitment to timeliness, security, scale, and
                         performance ensures that our clients receive top-notch
@@ -297,7 +298,7 @@ Najafgarh, New Delhi- 110043
                                 <strong>📧 Email:</strong> support@Vidyovate.com
                             </p>
                             <p class="mb-0">
-                                <strong>📞 Phone:</strong> +91 857746590
+                                <strong>📞 Phone:</strong> +91 7979885210
                             </p>
                         </div>
                     </div>
